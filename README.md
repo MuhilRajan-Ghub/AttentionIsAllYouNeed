@@ -17,3 +17,5 @@ Foundation for Large Language Models: The architecture has become the backbone o
 Comprehensive Codebase: A full implementation of the Transformer model, including multi-head self-attention, positional encoding, and feed-forward networks, following the original paper's specifications. This ensures fidelity to the groundbreaking design proposed by Vaswani et al. 🧩📜
 
 Modular Design: Clean and modular code structure, facilitating understanding, customization, and experimentation with different components of the Transformer architecture. This design promotes ease of use and adaptability for various applications. 🏗️🔧
+
+[Attention Is All You Need]: https://arxiv.org/pdf/1706.03762
