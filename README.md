@@ -16,6 +16,4 @@ Foundation for Large Language Models: The architecture has become the backbone o
 ## Features of This Implementation 🛠️
 Comprehensive Codebase: A full implementation of the Transformer model, including multi-head self-attention, positional encoding, and feed-forward networks, following the original paper's specifications. This ensures fidelity to the groundbreaking design proposed by Vaswani et al. 🧩📜
 
-Training and Evaluation Pipelines: Scripts to train the model on datasets like WMT English-German and evaluate its performance, mirroring the experiments conducted in the paper. This allows for replication and validation of the model's capabilities. 🏋️‍♂️📊
-
 Modular Design: Clean and modular code structure, facilitating understanding, customization, and experimentation with different components of the Transformer architecture. This design promotes ease of use and adaptability for various applications. 🏗️🔧
