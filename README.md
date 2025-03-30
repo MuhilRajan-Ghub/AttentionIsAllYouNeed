@@ -1,5 +1,6 @@
 # Attention Is All You Need Implementation
 This repository contains a python implementation of the Transformer model, as introduced in the seminal paper "Attention Is All You Need" by Vaswani et al. in 2017.
+[Attention Is All You Need]: https://arxiv.org/pdf/1706.03762
 
 ## Overview 📝
 In 2017, a team of researchers at Google proposed a novel neural network architecture known as the Transformer. This model relies solely on attention mechanisms, eliminating the need for recurrent or convolutional layers traditionally used in sequence transduction tasks. The Transformer architecture enables significantly more parallelization, leading to faster training times and improved performance in tasks like machine translation. 
@@ -18,4 +19,4 @@ Comprehensive Codebase: A full implementation of the Transformer model, includin
 
 Modular Design: Clean and modular code structure, facilitating understanding, customization, and experimentation with different components of the Transformer architecture. This design promotes ease of use and adaptability for various applications. 🏗️🔧
 
-[Attention Is All You Need]: https://arxiv.org/pdf/1706.03762
+
